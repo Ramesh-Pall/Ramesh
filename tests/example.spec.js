@@ -21,5 +21,5 @@ console.log(text)
    const linktext=await page.locator('div.WNv7PR').nth(1).textContent();
    console.log(linktext)
 
-});
+});  //add program comment
   
